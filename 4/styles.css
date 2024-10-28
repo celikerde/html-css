@@ -1,0 +1,24 @@
+h1{
+    color: orangered;
+    background-color: cadetblue;
+    font-size: 48px;
+    font-family: sans-serif;
+    text-align: right;
+    text-decoration: underline;
+}
+p{
+    color: slategray;
+    line-height: 32px;
+    letter-spacing: 3px;
+    column-count: 2;
+    column-gap: 60px;
+}
+
+ul{
+    /*border: 4px solid greenyellow;*/
+    border-bottom: 4px dashed green;
+}
+li{
+    list-style-type: square;
+    text-shadow: 2px 2px lightblue;
+}
